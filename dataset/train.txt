@@ -1,0 +1,1 @@
+# List paths of the train images
